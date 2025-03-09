@@ -1,0 +1,14 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\bin\Debug\net9.0\Voting.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\bin\Debug\net9.0\Voting.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\bin\Debug\net9.0\Voting.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\bin\Debug\net9.0\Voting.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\bin\Debug\net9.0\Voting.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\refint\Voting.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\Voting.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Voting\obj\Debug\net9.0\ref\Voting.dll
